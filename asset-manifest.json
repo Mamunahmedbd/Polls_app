@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Polls_app/static/js/main.e2c060a0.chunk.js",
+    "main.js.map": "/Polls_app/static/js/main.e2c060a0.chunk.js.map",
+    "runtime-main.js": "/Polls_app/static/js/runtime-main.18311580.js",
+    "runtime-main.js.map": "/Polls_app/static/js/runtime-main.18311580.js.map",
+    "static/css/2.95f25948.chunk.css": "/Polls_app/static/css/2.95f25948.chunk.css",
+    "static/js/2.2abda044.chunk.js": "/Polls_app/static/js/2.2abda044.chunk.js",
+    "static/js/2.2abda044.chunk.js.map": "/Polls_app/static/js/2.2abda044.chunk.js.map",
+    "static/js/3.dc51a023.chunk.js": "/Polls_app/static/js/3.dc51a023.chunk.js",
+    "static/js/3.dc51a023.chunk.js.map": "/Polls_app/static/js/3.dc51a023.chunk.js.map",
+    "index.html": "/Polls_app/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/Polls_app/static/css/2.95f25948.chunk.css.map",
+    "static/js/2.2abda044.chunk.js.LICENSE.txt": "/Polls_app/static/js/2.2abda044.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18311580.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.2abda044.chunk.js",
+    "static/js/main.e2c060a0.chunk.js"
+  ]
+}
